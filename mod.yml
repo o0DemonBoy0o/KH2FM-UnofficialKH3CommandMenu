@@ -1,0 +1,8 @@
+title: Unofficial KH3 Command Menu
+originalAuthor: hennykage
+description: hennykage's KH3 Command Menu Converted to OpenKH Format
+assets:
+  - name: field2d/jp/zz0command.2dd
+    method: copy
+    source:
+    - name: field2d/jp/zz0command.2dd
